@@ -5,7 +5,7 @@ I'm [Shawon], a passionate software engineer, web developer, and lifelong learne
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on: [port01](https://github.com/sha-on/port01)
-- 🌱 Learning: Machine Learning, MLOps, and Python
+- 🌱 Learning: MERN STACK
 - 🛠 Tech Stack: PostgreSQL, MongoDB, React, Express.js, Node.js
 - 💬 Ask me about: Backend development, DevOps, or anything tech-related
 - 📝 I regularly write articles on: [In my journey as a front-end developer, I’ve consistently recharged my skills with key technologies: React, Express.js, jQuery, and MongoDB. Each of these tools has contributed to my growth, enabling me to build dynamic, scalable, and performant web applications.]
